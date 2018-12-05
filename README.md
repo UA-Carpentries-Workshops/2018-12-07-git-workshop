@@ -1,5 +1,11 @@
 # 2018-12-07-git-workshop
 
+# Instructors
+
+Marnee Dearman
+
+Julian Pistorius
+
 # Details
 
 __Date__: Dec. 7, 2018
