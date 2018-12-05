@@ -3,7 +3,9 @@
 # Details
 
 __Date__: Dec. 7, 2018
+
 __Time__: 9am to 12pm
+
 __Location__: Drachman Hall A122
 
 
