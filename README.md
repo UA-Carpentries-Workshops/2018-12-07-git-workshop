@@ -8,8 +8,9 @@ __Time__: 9am to 12pm
 
 __Location__: Drachman Hall A122
 
+# Git installation
 
-# Windows
+## Windows
 
 Download the Git for Windows installer.
 
@@ -67,10 +68,10 @@ Quit command prompt by typing exit then pressing [Enter]
 
 This will provide you with both Git and Bash in the Git Bash program.
 
-# macOS
+## macOS
 The default shell in all versions of macOS is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). 
 
 See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
 
-# Linux
+## Linux
 The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
