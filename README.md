@@ -1,5 +1,9 @@
 # 2018-12-07-git-workshop
 
+# Etherpad
+
+https://pad.carpentries.org/2018-12-07-git-workshop
+
 # Instructors
 
 Marnee Dearman
