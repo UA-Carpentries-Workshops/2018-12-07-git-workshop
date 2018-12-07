@@ -1,5 +1,7 @@
 # Welcome to the Git Workshop (you can checkout but you can never leave)
 
+[Etherpad](https://pad.carpentries.org/2018-12-07-git-workshop)
+
 [Please stop using Git! (funny)](https://www.youtube.com/watch?v=o4PFDKIc2fs)
 
 [Git for ages 4 and up](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
@@ -30,7 +32,7 @@ Having trouble? Don't hesitate to put up your sticky and someone will be around 
 We need to create a folder structure where we will be doing our work.
 
 1. In Terminal or git-bash, make sure you are in your home directory.
-2. Create a folder called `use the workshop name` (`mkdir`)
+2. Create a folder called `software-carpentry-git-workshop` (`mkdir`)
 3. Change directories so you are in that folder
 4. Create a folder called `basic-git`
 5. Change directories so you are in that folder
